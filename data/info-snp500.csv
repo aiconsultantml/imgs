@@ -77,7 +77,7 @@
 75,BMY,Bristol-Myers Squibb,reports,Health Care,Health Care Distributors,"New York City, New York",3/4/1957,14272,1989
 76,AVGO,Broadcom,reports,Information Technology,Semiconductors,"San Jose, California",5/8/2014,1730168,1961
 77,BR,Broadridge Financial Solutions,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",6/18/2018,1383312,1962
-78,BF.B,Brown–Forman,reports,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",10/31/1982,14693,1870
+78,BF.B,BrownâForman,reports,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",10/31/1982,14693,1870
 79,CHRW,C. H. Robinson,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",3/2/2007,1043277,1905
 80,COG,Cabot Oil & Gas,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",6/23/2008,858470,1989
 81,CDNS,Cadence Design Systems,reports,Information Technology,Application Software,"San Jose, California",9/18/2017,813672,1988
@@ -174,7 +174,7 @@
 172,EQIX,Equinix,reports,Real Estate,Specialized REITs,"Redwood City, California",3/20/2015,1101239,1998
 173,EQR,Equity Residential,reports,Real Estate,Residential REITs,"Chicago, Illinois",12/3/2001,906107,1969
 174,ESS,Essex Property Trust,reports,Real Estate,Residential REITs,"San Mateo, California",4/2/2014,920522,1971
-175,EL,Estée Lauder Companies,reports,Consumer Staples,Personal Products,"New York City, New York",1/5/2006,1001250,1946
+175,EL,EstÃ©e Lauder Companies,reports,Consumer Staples,Personal Products,"New York City, New York",1/5/2006,1001250,1946
 176,ETSY,Etsy,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Brooklyn, New York",9/21/2020,1370637,2005
 177,EVRG,Evergy,reports,Utilities,Electric Utilities,"Kansas City, Missouri",6/5/2018,1711269,1909
 178,ES,Eversource Energy,reports,Utilities,Multi-Utilities,"Hartford, Connecticut",,72741,1966
@@ -410,7 +410,7 @@
 408,SPGI,S&P Global,reports,Financials,Financial Exchanges & Data,"New York City, New York",,64040,1917
 409,CRM,Salesforce,reports,Information Technology,Application Software,"San Francisco, California",9/15/2008,1108524,1999
 410,SBAC,SBA Communications,reports,Real Estate,Specialized REITs,"Boca Raton, Florida",9/1/2017,1034054,1989
-411,SLB,Schlumberger,reports,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",3/31/1965,87347,1926
+411,SLB,Schlumberger,reports,Energy,Oil & Gas Equipment & Services,"CuraÃ§ao, Kingdom of the Netherlands",3/31/1965,87347,1926
 412,STX,Seagate Technology,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",7/2/2012,1137789,1979
 413,SEE,Sealed Air,reports,Materials,Paper Packaging,"Charlotte, North Carolina",3/4/1957,1012100,1960
 414,SRE,Sempra Energy,reports,Utilities,Multi-Utilities,"San Diego, California",,1032208,1998
@@ -504,108 +504,3 @@
 502,ZBH,Zimmer Biomet,reports,Health Care,Health Care Equipment,"Warsaw, Indiana",8/7/2001,1136869,1927
 503,ZION,Zions Bancorp,reports,Financials,Regional Banks,"Salt Lake City, Utah",6/22/2001,109380,1873
 504,ZTS,Zoetis,reports,Health Care,Pharmaceuticals,"Parsippany, New Jersey",6/21/2013,1555280,1952
-505,AMRS,,,,,,,,
-506,BABA,Alibaba,,,,,,,
-507,ALXN,,,,,,,,
-508,AIV,,,,,,,,
-509,NIO,Nio,,,,,,,
-510,SPCE,Virgin Galatic,,,,,,,
-511,CXO,,,,,,,,
-512,COTY,,,,,,,,
-513,FLIR,,,,,,,,
-514,FLS,,,,,,,,
-515,FTI,,,,,,,,
-516,HRB,,,,,,,,
-517,HFC,,,,,,,,
-518,KSS,,,,,,,,
-519,LB,,,,,,,,
-520,SLG,,,,,,,,
-521,TIF,,,,,,,,
-522,VAR,,,,,,,,
-523,XRX,,,,,,,,
-524,TLRY,Tilray Inc,,,,,,,
-525,ACB,Aurora Cannabis,,,,,,,
-526,HEXO,Hexo,,,,,,,
-527,BIDU,Baidu,,,,,,,
-528,TWLO,Twillio,,,,,,,
-529,RKT,�Rocket Companies Inc,,,,,,,
-530,PLUG,,,,,,,,
-531,AUPH,Aurinia Pharma,,,,,,,
-532,CGC,Canopy Growth,,,,,,,
-533,CRON,,,,,,,,
-534,NEPT,Neptune Wellness,,,,,,,
-535,IGC,,,,,,,,
-536,MDB,,,,,,,,
-537,CNST,,,,,,,,
-538,BLNK,Blink,,,,,,,
-539,UBER,Uber,,,,,,,
-540,NVAX,Novavax,,,,,,,
-541,NBEV,Newage Bev,,,,,,,
-542,CPE,,,,,,,,
-543,DOCU,,,,,,,,
-544,AYTU,,,,,,,,
-545,QS,,,,,,,,
-546,OGI,,,,,,,,
-547,SAVA,,,,,,,,
-548,CSTL,,,,,,,,
-549,BXRX,,,,,,,,
-550,AVXL,,,,,,,,
-551,BNGO,,,,,,,,
-552,HZNP,,,,,,,,
-553,BCRX,,,,,,,,
-554,DVAX,,,,,,,,
-555,EXEL,,,,,,,,
-556,TRVN,,,,,,,,
-557,VIR,,,,,,,,
-558,HTBX,,,,,,,,
-559,CRMD,,,,,,,,
-560,IBRX,,,,,,,,
-561,NH,,,,,,,,
-562,GLSI,,,,,,,,
-563,FIXX,,,,,,,,
-564,AZN,,,,,,,,
-565,BNTX,,,,,,,,
-566,TAK,,,,,,,,
-567,BGNE,,,,,,,,
-568,VXRT,,,,,,,,
-569,INO,,,,,,,,
-570,GWPH,,,,,,,,
-571,JAZZ,,,,,,,,
-572,HUGE,,,,,,,,
-573,SNDL,Sundial,,,,,,,
-574,LULU,,,,,,,,
-575,GME,,,,,,,,
-576,WISH,,,,,,,,
-577,ABNB,,,,,,,,
-578,SNOW,,,,,,,,
-579,AMC,,,,,,,,
-580,RKUNY,,,,,,,,
-581,YTRA,,,,,,,,
-582,GRPN,,,,,,,,
-583,DELL,,,,,,,,
-584,GMAB,,,,,,,,
-585,BJ,,,,,,,,
-586,CLNE,,,,,,,,
-587,HOL,,,,,,,,
-588,FCEL,,,,,,,,
-589,SEDG,,,,,,,,
-590,SPWR,,,,,,,,
-591,FSLR,,,,,,,,
-592,SOLO,,,,,,,,
-593,NSANY,,,,,,,,
-594,BMWYY,,,,,,,,
-595,HMC,,,,,,,,
-596,TTM,,,,,,,,
-597,NKLA,,,,,,,,
-598,ARKK,,,,,,,,
-599,JBLU,,,,,,,,
-600,SAVE,,,,,,,,
-601,LMND,,,,,,,,
-602,DISCB,,,,,,,,
-603,APHA,,,,,,,,
-604,PLTR,Palantir,,,,,,,
-605,AI,,,,,,,,
-606,PLL,,,,,,,,
-607,CBAT,,,,,,,,
-608,CLOVE,,,,,,,,
-609,SHOP,Shopify,,,,,,,
